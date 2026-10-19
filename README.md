@@ -8,3 +8,12 @@ Public documentation and privacy policy for **Geometria Sacra**, an iPhone medit
 - **`support.html`** - The app's support page. Describes how to use the app (start/pause, flip image, mute, language toggle), answers FAQs (removing ads, restoring purchases, audio troubleshooting), and lists system requirements (iOS 17.0+, iPhone).
 
 Both pages are linked from the app's App Store listing and are plain, self-contained HTML with inline CSS.
+
+## Forwarding (2026-10-19)
+
+Both pages forward visitors to the same pages on the main site, which has English, Portuguese and Spanish:
+
+- `support.html` -> https://www.innersanctum.tech/geometria-sacra/support
+- `privacy-policy.html` -> https://www.innersanctum.tech/geometria-sacra/privacy
+
+The pages stay here, content intact, because the App Store listing already points to these addresses. Whenever an app store form is filled out again, use the innersanctum.tech addresses instead. Edit the text on the website, not here.
